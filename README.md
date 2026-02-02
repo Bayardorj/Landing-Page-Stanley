@@ -26,16 +26,6 @@ This project is a static HTML/CSS landing page showcasing a product (e.g., smart
 
 ---
 
-## 📁 Project Structure
-📦 Landing-Page-Stanley
- ┣ 📜 index.html
- ┣ 📂 css/
- ┃  ┗ 📜 style.css
- ┣ 📂 assets/
- ┃  ┗ 🖼️ images (logos, product images)
- ┣ 📜 README.md
-
-
 ## 🧩 How It Works
 
 This is a static page built with HTML and CSS, no backend needed. The navigation anchors (Features, How it works, Pricing) link to sections on the same page. The pricing cards show different product tiers. You can customize text and images to suit your product.
@@ -44,7 +34,7 @@ This is a static page built with HTML and CSS, no backend needed. The navigation
 
 ## 🖼 Preview
 
-![Game Preview](assets/preview.png)  
+![Game Preview](assets/landing_page.png)  
 
 ---
 
